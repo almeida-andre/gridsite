@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# GRID
+### GRID
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Trabalhamos em conjunto com proﬁssionais e empresas de arquitetura, design, 
+construção e fabricantes na missão de otimizar seus ﬂuxos de trabalho.
+
+Utilizando as ferramentas certas, atuamos no desenvolvimento de projetos,
+consultorias, treinamentos, implantação e desenvolvimento de aplicativos.
