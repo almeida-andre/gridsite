@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: GRID
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: GRID é uma empresa de arquitetura e tecnologia.
+intro_image: "images/illustrations/d-koi-GQJY4UPR21U-unsplash.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# GRID
 
 Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
